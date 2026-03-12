@@ -1,0 +1,48 @@
+body{
+
+font-family: 'Raleway', sans-serif;
+text-align: center;
+
+}
+
+.container{
+
+display: flex;
+
+flex-wrap: wrap;
+
+justify-content: center;
+align-items: center;
+
+gap: 15px;
+
+margin-bottom: 40px;
+
+}
+
+.caixa{
+
+width: 130px;
+height: 130px;
+
+color: white;
+font-size: 14px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+border-radius: 8px;
+
+}
+
+
+.caixa1{background-color:#e74c3c;}
+.caixa2{background-color:#3498db;}
+.caixa3{background-color:#2ecc71;}
+.caixa4{background-color:#9b59b6;}
+.caixa5{background-color:#f39c12;}
+.caixa6{background-color:#1abc9c;}
+.caixa7{background-color:#34495e;}
+.caixa8{background-color:#e67e22;}
+.caixa9{background-color:#7f8c8d;}
